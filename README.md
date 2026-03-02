@@ -11,3 +11,4 @@ import "./AddressBook.sol";
 11
 
 // Contract for creating new instances of AddressBook
+contract AddressBookFactory {
