@@ -12,3 +12,5 @@ import "./AddressBook.sol";
 
 // Contract for creating new instances of AddressBook
 contract AddressBookFactory {
+
+    string private salt = "value";
