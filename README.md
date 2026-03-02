@@ -9,3 +9,5 @@ pragma solidity ^0.8.8;
 import "./AddressBook.sol";
 10
 11
+
+// Contract for creating new instances of AddressBook
