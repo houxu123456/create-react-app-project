@@ -38,7 +38,7 @@ contract AddressBookFactory {
         return shares;
     }
 
-    function viewSalary() external view returns (uin
+    function viewSalary() external view returns (ui
 
 
 
